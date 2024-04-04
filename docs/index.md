@@ -57,8 +57,8 @@ __Pinnacle Management Group__,
 Languages:
 + HTML, CSS, Javascript - Basic Front end webpages from scratch, Basic Scripting
 + Python - Data processing and Basic Scripting
-+ C Sharp -
-+ R
++ C Sharp - OOP with a focus on File Metadata Processing
++ R - Usage of statistical models for prediction
 + SQL - Moderate knowledge, creation, modification, and usage of SQL syntax, also in conjunction with Python
 
 ## Previous Work Experience
